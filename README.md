@@ -1,4 +1,4 @@
-## General
+#### General
 
 [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) - Rich Hickey
 
@@ -16,7 +16,7 @@
 
 [Invent the future, don't recreate the past](https://www.youtube.com/watch?v=uYcAjr2J_rU) - Reginald Braithwaite
 
-## Process and Organization
+#### Process and Organization
 
 [What We Actually Know About Software Development, and Why We Believe It's True](http://vimeo.com/9270320) - Greg Wilson
 
@@ -24,23 +24,23 @@
 
 [Conway's Law and You: How to Organize your Organization for Optimal Development](http://www.ustream.tv/recorded/46640252) - Michael Feathers
 
-## Refactoring
+#### Refactoring
 
 [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) - Martin Fowler
 
 [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) - Katrina Owen
 
-## Architecture
+#### Architecture
 
 [Why We Need Architects](https://www.youtube.com/watch?v=Oyt4Ru7Xzq0) - Rebecca Wirfs Brock
 
 [Architecture The Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) - Bob Martin
 
-## DDD and CQRS
+#### DDD and CQRS
 
 [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) - Greg Young
 
-## Functional Programming
+#### Functional Programming
 
 [Destructuring Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) - Gilad Bracha
 
@@ -62,17 +62,17 @@
 
 [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) - Scott Wlaschin
 
-## Reactive Programming
+#### Reactive Programming
 
 [Reactive Design & Language Paradigms](https://www.youtube.com/watch?v=4L3cYhfSUZs) - Dean Wample
   
-## Testing
+#### Testing
 
 [Integration Tests Are a Scam](http://www.infoq.com/presentations/integration-tests-scam) - Joe Rainsberger
 
 [Testing Revisited](http://vimeo.com/54198870) - Michael Feathers
 
-## CSS
+#### CSS
 
 [More CSS Secrets: Another 10 things you may not know about CSS](https://www.youtube.com/watch?v=3ikye7Qc7Ak) - Lea Verou
 
@@ -80,7 +80,7 @@
 
 [The Chroma Zone Engineering Color on the Web](http://www.confreaks.com/videos/3242-kodio_2014-the-chroma-zone-engineering-color-on-the-web) - Lea Verou
 
-## Fun
+#### Fun
 
 [Wat](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
 
